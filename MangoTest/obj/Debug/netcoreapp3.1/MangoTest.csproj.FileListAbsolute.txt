@@ -1,0 +1,14 @@
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.exe
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.deps.json
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.runtimeconfig.json
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.dll
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\bin\Debug\netcoreapp3.1\MangoTest.pdb
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.dll
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.pdb
+C:\Users\Decagon\source\repos\MangoTest\MangoTest\obj\Debug\netcoreapp3.1\MangoTest.genruntimeconfig.cache

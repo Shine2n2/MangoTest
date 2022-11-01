@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJGXpLN6IwtgElYf2gjbLfBwf8nC26OGJ0zK5Gnm1NfLcvejh37fyOAzdN8fsW8nHil3CUwrp2zpKTbig5lHNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\MangoTest\\MangoTest\\MangoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
